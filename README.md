@@ -14,3 +14,4 @@ This course is using the :sparkles: open source project [reveal.js](https://gith
 
 
 Nota general: He agregado texto en el presente readme para dejar registro de ingreso de cambios en el readme.
+> agrego una cita de un texto
